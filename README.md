@@ -1,3 +1,3 @@
 # pictures
 
-These are the private images although not that private.
+Test pictures for main page
