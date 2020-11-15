@@ -1,3 +1,2 @@
 # Pictures
-
-#### Test pictures for main page
+Test pictures for main page
